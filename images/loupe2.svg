@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <symbol id="svg_39" viewBox="0 0 128 160" y="0px" x="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+   <path d="m127.890999,123.227997l-35.103996,-33.559998c8.524994,-9.437996 13.75,-21.89801 13.75,-35.578999c0,-29.343 -23.871002,-53.214001 -53.211002,-53.214001c-29.342001,0 -53.217,23.864 -53.217,53.214001c0,29.349003 23.874999,53.219997 53.224,53.219997c13.728996,0 26.218002,-5.270996 35.662003,-13.827995l35.182999,33.644997l3.712997,-3.898003zm-74.557999,-21.294998c-26.375,0 -47.837,-21.465996 -47.837,-47.843998c0,-26.375 21.456,-47.831001 47.837,-47.831001c26.375,0 47.827003,21.455989 47.827003,47.831001c0,26.378002 -21.459007,47.843998 -47.827003,47.843998z"/>
+   <text font-family="&#x27;Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="143" x="0">Created by Jack NUMBER</text>
+   <text font-family="&#x27;Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="148" x="0">from the Noun Project</text>
+  </symbol>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <use x="-127.2" y="-2.4" transform="matrix(1.25,0,0,1.25,0,0) " xlink:href="#svg_39" id="svg_40"/>
+ </g>
+</svg>
